@@ -3,7 +3,11 @@ The challenge persist to create a rest API that recommends some playlist on spot
 
 
 # How to Run
+
+```sh
 npm install
+```
+
 npm run dev to start server
 
 
